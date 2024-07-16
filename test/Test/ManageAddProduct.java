@@ -50,7 +50,7 @@ public class ManageAddProduct {
     @Test
     public void AddProductFail2() throws SQLException {
         
-        String id = "DE93";
+        String id = "SE93";
             String name = "Dress";
             String detail = "Rat dep";
             String price_word = "-123";
