@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jaxb-api-2.1 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/sqljdbc42.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Download/Libraries_netBeans" />
+      <root url="jar://$PROJECT_DIR$/../../../Download/Libraries_netBeans/sqljdbc42.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Download/Libraries_netBeans/jaxb-api-2.1 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Download/Libraries_netBeans/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Download/Libraries_netBeans/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../Download/Libraries_netBeans" recursive="false" />
+  </library>
+</component>
